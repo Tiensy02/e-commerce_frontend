@@ -1,0 +1,42 @@
+@import url('../../assets/css/base.css');
+.mutil_selected_form{
+    display: flex;
+    flex-wrap: nowrap;
+    column-gap: 12px;
+    max-width: 800px;
+    overflow-x: scroll;
+    border-radius: 4px;
+    padding: 12px;
+    background-color: white;
+    box-shadow: 0 0 10px 0 rgba(0,0,0,0.1);
+}
+
+.select_wrapper {
+    margin-left: 12px;
+    position: relative;
+    background: #fff;
+    z-index: 1000;
+    display: flex;
+    padding-right: 8px;
+    border-right: 2px solid #d3d3d3;
+    min-width: 200px;
+  }
+
+.select_item_wrapper{
+    row-gap: 8px;
+}
+.select_item{
+    width: 100%;
+    border-radius: 4px;
+    cursor: pointer;
+    text-align: start;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 12px;
+}
+.select_item:hover{
+    background-color: #ebebeb;
+}
+.select_item.selected{
+    color: var(--primary-color);
+}

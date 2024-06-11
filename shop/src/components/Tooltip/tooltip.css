@@ -1,0 +1,13 @@
+.custom-tooltip__require {
+    color: red;
+  }
+  
+  .custom-tooltip__title {
+    margin-left: 5px;
+  }
+  .custom-tooltip__label{
+    display: flex;
+    column-gap: 4px;
+    align-items: center;
+  }
+  

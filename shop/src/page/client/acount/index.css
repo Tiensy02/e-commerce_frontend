@@ -1,0 +1,31 @@
+@import url("../../../assets/css/base.css");
+.profile_content{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 48px;
+    margin-right: 48px;
+    align-items: center;
+    flex: 1;
+}
+.profile_info_elem{
+    display: flex;
+    width: 100%;
+    text-align: start;
+}
+.profile_info{
+    width: 60%;
+}
+
+.profile_info_descrip{
+    text-align: end;
+}
+
+.profile_info_title{
+    flex: 1;
+    opacity: 0.8;
+    font-style: italic;
+}
+.profile{
+    display: flex;
+    flex-direction: column;
+}

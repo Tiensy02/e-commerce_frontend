@@ -1,0 +1,27 @@
+@import url('../../assets/css/base.css');
+.process_box .process_wrap {
+    position: relative;
+}
+.process_box .process_wrap::after{
+    content: "";
+    position: absolute;
+    top:24px;
+    left: 6px;
+    height: 30px;
+    width: 4px;
+    background-color: #cecfd0;
+    border-radius: 2px;
+}
+.process_box .process_wrap.active::after{
+    content: "";
+    position: absolute;
+    top:24px;
+    left: 6px;
+    height: 30px;
+    width: 4px;
+    background-color: #015ae9;
+    border-radius: 2px;
+}
+.process_box .process_wrap:last-child::after {
+    content: none;
+}

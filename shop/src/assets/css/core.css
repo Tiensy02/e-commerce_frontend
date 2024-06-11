@@ -1,0 +1,32 @@
+
+@font-face {
+    font-family: roboto;
+    src: url("../front/Roboto-Regular.ttf");
+    font-weight: 400;
+}
+@font-face {
+    font-family: roboto;
+    src: url("../front/Roboto-Bold.ttf");
+    font-weight:700 ;
+}
+@font-face {
+    font-family: roboto;
+    src: url("../front/Roboto-Italic.ttf");
+    font-style: italic;
+}
+@font-face {
+    font-family: roboto;
+    src: url("../front/Roboto-Medium.ttf");
+    font-weight: 500;
+}
+body{
+    font-size: 14px;
+    font-family: roboto !important;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5 !important;
+    box-sizing: border-box;
+}
+.MuiButton-containedSecondary{
+    border: 1px solid #000;
+}

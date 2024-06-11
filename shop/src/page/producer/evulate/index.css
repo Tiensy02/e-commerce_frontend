@@ -1,0 +1,7 @@
+@import url('../../../assets/css/base.css');
+.commment-text{
+    line-height: 1.5;
+    font-size: 14px;
+    text-indent: 0;
+    text-align: left;
+}

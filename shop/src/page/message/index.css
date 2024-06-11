@@ -1,0 +1,182 @@
+.chat_wrap {
+    display: flex;
+    flex-wrap: nowrap;
+
+}
+
+.wrap_form {
+    display: flex;
+    justify-content: center;
+    width: 95%;
+    column-gap: 12px;
+}
+
+.wrap_text {
+    width: 100%;
+}
+
+.message_row {
+    display: flex;
+    column-gap: 8px;
+}
+
+.message_row_right {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.message_blue {
+    position: relative;
+    margin-left: 20px;
+    margin-bottom: 24px;
+    padding: 10px;
+    background-color: #2196f3;
+    width: 60%;
+    text-align: left;
+    font: 400 .9em 'Open Sans', sans-serif;
+    border: 1px solid #97C6E3;
+    border-radius: 10px;
+}
+
+
+
+
+
+.message_orange {
+    position: relative;
+    margin-right: 20px;
+    margin-bottom: 24px;
+    padding: 10px;
+    background-color: #f8e896;
+    width: 60%;
+    text-align: left;
+    font: 400 .9em 'Open Sans', sans-serif;
+    border: 1px solid #dfd087;
+    border-radius: 10px;
+}
+
+
+
+
+.message_content {
+    padding: 0;
+    margin: 0;
+}
+
+.message_time_StampRight {
+    position: absolute;
+    font-size: .85em;
+    font-weight: 300;
+    margin-top: 10px;
+    bottom: -18px;
+    right: 5px;
+}
+
+.orange {
+    color: #ffb74d;
+    background-color: #ffb74d;
+    width: 4em;
+    /* Bạn cần thay đổi giá trị này dựa trên giá trị thực tế của theme.spacing(4) */
+    height: 4em;
+    /* Bạn cần thay đổi giá trị này dựa trên giá trị thực tế của theme.spacing(4) */
+}
+
+.avatar_nothing {
+    color: transparent;
+    background-color: transparent;
+    width: 4em;
+    /* Bạn cần thay đổi giá trị này dựa trên giá trị thực tế của theme.spacing(4) */
+    height: 4em;
+    /* Bạn cần thay đổi giá trị này dựa trên giá trị thực tế của theme.spacing(4) */
+}
+
+.display_name {
+    margin-left: 20px;
+}
+
+.paper {
+    width: 80vw;
+    height: 75vh;
+    max-width: 500px;
+    max-height: 700px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    position: relative;
+}
+
+.chat-toolbar {
+    width: 60vw;
+    height: 75vh;
+    max-width: 300px;
+    max-height: 700px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    padding:12px 0;
+    overflow-y:scroll;
+}
+/* .chat-toolbar::after{
+    content: "";
+    width: 1px;
+    height: 100%;
+    background-color: #9a9a9a;
+    position: absolute;
+    top: 0;
+    right: 0;
+} */
+
+.paper2 {
+    width: 80vw;
+    max-width: 500px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    position: relative;
+}
+
+.chat-box_wrap {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    z-index: 99999;
+}
+
+#messages_body {
+    width: calc(100% - 20px);
+    margin: 10px;
+    overflow-y: scroll;
+    height: calc(100% - 80px);
+}
+
+
+/** Mess user */
+.mess-user_wrap{
+    display: flex;
+    align-items: center;
+    column-gap: 12px;
+    cursor: pointer;
+    padding-left: 12px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+.mess-user_wrap:hover{
+    background-color: #f1f1f1;
+}
+.mess-user_wrap.active{
+    background-color: #f1f1f1;
+}
+
+
+.mess_wrap{
+    display: flex;
+    flex-direction: column;
+    flex: 0 0 180px;
+    align-items: flex-start;
+    margin-top: 6px;
+    width: 180px;
+
+}

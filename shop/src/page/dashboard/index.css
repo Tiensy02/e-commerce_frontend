@@ -1,0 +1,111 @@
+@import url("../../assets/css/base.css");
+.chart-title {
+    text-align: start;
+}
+.dashboard_header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: #fff;
+    z-index: 100;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+    height: 60  px;
+    display: flex;
+    justify-content: space-between;
+    padding: 16px;
+}
+.to_do_list{
+    display: flex;
+    flex-wrap: wrap;
+    row-gap: 24px;
+}
+.to_do_item{
+    display: flex;
+    flex-direction: column;
+    row-gap: 8px;
+    min-width: 160px;
+    margin-right: 12px;
+    text-align: center;
+    position: relative;
+    font-size: 12px;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.to_do_item:last-child {
+    margin-right: 0; /* Đặt margin thành 0 cho phần tử đầu tiên */
+}
+.to_do_item:not(:last-child)::after {
+    content: "";
+    width: 1px;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    right: 0px;
+    background-color: #d3d3d3;
+}
+.link_dashboard{
+    color: black !important;
+    font-size: 20px !important;
+    text-decoration: none;
+}
+
+.notification_content {
+    display: -webkit-box;
+    -webkit-line-clamp: 4; 
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-size: 14px;
+    text-align: start;
+    margin-left: 12px;
+
+}
+.notification_title {
+    font-size: 16px;
+    text-align: start;
+    font-weight: 500;
+    margin:0;
+}
+.table_action{
+    font-size: 14px;
+    color: var(--primary-color);
+    text-decoration: underline;
+    z-index: 1;
+    cursor: pointer;
+}
+.table_action:hover{
+    color: var(--primary-color-hover);
+
+}
+
+.styled-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 18px;
+    text-align: left;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+
+.styled-table thead tr {
+    background-color: var(--primary-color);
+    color: #ffffff;
+    text-align: left;
+    font-weight: bold;
+}
+
+.styled-table th,
+.styled-table td {
+    padding: 12px 15px;
+}
+
+.styled-table tbody tr {
+    border-bottom: 1px solid #dddddd;
+}
+
+.styled-table tbody tr:nth-of-type(even) {
+    background-color: #f3f3f3;
+}
+

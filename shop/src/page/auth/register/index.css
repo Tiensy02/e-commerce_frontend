@@ -1,0 +1,20 @@
+
+@keyframes shake {
+    0% { transform: translateX(0); }
+    10%, 90% { transform: translateX(-3px); }
+    20%, 80% { transform: translateX(3px); }
+    30%, 50% { transform: translateX(-5px); }
+    40%, 60% { transform: translateX(5px); }
+    100% { transform: translateX(0); }
+}
+
+.invalid-user {
+    color: red;
+    border-radius: 4px;
+    margin: 12px;
+    animation: shake 0.5s ease-in-out;
+}
+.authen{
+    padding: 12px !important;
+    background-color: white !important;
+}

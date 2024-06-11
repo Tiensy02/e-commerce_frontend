@@ -1,0 +1,38 @@
+[
+    {
+        "id": "663ba72aa1f7042809e6d999",
+        "userId": "66247114afb19e2a1ac5e000",
+        "categoryId": "5bf1cb4f-ee60-4bb3-b730-2d6955bd9664",
+        "name": "pen"
+    },
+    {
+        "id": "663ba72aa1f7042809e6d99b",
+        "userId": "6624712fafb19e2a1ac5e002",
+        "categoryId": "6d6f5fa9-d32d-402e-a21c-52aef2f08edd",
+        "name": "jean"
+    },
+    {
+        "id": "663ba72aa1f7042809e6d9b0",
+        "userId": "66247121afb19e2a1ac5e001",
+        "categoryId": "f817008e-210a-4315-a146-a63763e67fe5",
+        "name": "jacket2"
+    },
+    {
+        "id": "663ba72aa1f7042809e6d9b0",
+        "userId": "66247114afb19e2a1ac5e000",
+        "categoryId": "f817008e-210a-4315-a146-a63763e67fe5",
+        "name": "jacket1"
+    },
+    {
+        "id": "663ba72aa1f7042809e6d9b0",
+        "userId": "66247121afb19e2a1ac5e001",
+        "categoryId": "f817008e-210a-4315-a146-a63763e67fe5",
+        "name": "jacket2"
+    },
+    {
+        "id": "663ba72aa1f7042809e6d9b0",
+        "userId": "66247114afb19e2a1ac5e000",
+        "categoryId": "f817008e-210a-4315-a146-a63763e67fe5",
+        "name": "jacket3"
+    }
+]

@@ -1,0 +1,256 @@
+/* @import '~/assets/scss/theme'; */
+/* @import '~/assets/scss/core'; */
+.form {
+    width: 100%;
+  }
+.form-control-input.display-field__col{
+  display: flex;
+  flex-direction: column;
+  row-gap: 12px;
+}
+.form-control-input.display-field__row {
+  display: flex;
+  column-gap: 12px;
+}
+
+.input{
+  border: 1px solid #e0e0e0;
+}
+  .form__fields--row {
+    width: 100%;
+  }
+  
+  .form__fields--row__label--required {
+    padding: 0 3px;
+    color: red;
+  }
+  
+  
+  .form__fields--row__data {
+    position: relative;
+  }
+  
+  .form__fields--row__data > i {
+    position: absolute;
+    right: 12px;
+    top: 5px;
+  }
+  
+  .form__fields--row__data input {
+    width: 100%;
+    border: none;
+    background-color: inherit;
+    color: inherit;
+    font-weight: inherit;
+    border-radius: 3px;
+    padding: 8px 12px;
+  }
+  
+  .form__fields--row__data input:disabled {
+    cursor: not-allowed;
+    color: #999999;
+  }
+  
+  .form__fields--row__data--textarea {
+    width: 100%;
+    border: none;
+    background-color: inherit;
+    border-radius: 3px;
+    padding: 12px;
+    outline-width: 0;
+  }
+  
+  .form__fields--row__select {
+    width: 100%;
+    min-height: 32px;
+    padding-right: 1px;
+    outline: unset;
+    font-weight: inherit;
+    font-size: inherit;
+  }
+  
+  .form__fields--row__select--checkbox {
+    display: flex;
+    align-items: center;
+    margin-bottom: 12px;
+  }
+  
+  .form__fields--row__select--checkbox input {
+    margin-right: 10px;
+    max-width: 20px;
+  }
+  
+  .form__fields--row__select--checkbox label {
+    flex-grow: 1;
+    font-size: 12px;
+  }
+  
+  .form__fields--row__select__single-value {
+    color: inherit !important;
+  }
+  
+  .form__fields--row__select__single-value--is-disabled {
+    color: #999 !important;
+  }
+  
+  .form__fields--row__select:focus {
+    outline: 1px solid inherit !important;
+  }
+  
+  .form__fields--row__select > div > span.css-1okebmr-indicatorSeparator {
+    display: none;
+  }
+  
+  .form__fields--row__select__control {
+    cursor: pointer !important;
+    border: none !important;
+    background-color: inherit !important;
+    height: 35.2px !important;
+    min-height: auto !important;
+  }
+  
+  .form__fields--row__select__menu {
+    background-color: inherit !important;
+  }
+  
+  .form__fields--row__select__menu-list {
+    z-index: 1;
+    background-color: inherit !important;
+  }
+  
+  .form__fields--row__checkbox .MuiIconButton-label {
+    width: 16px !important;
+    color: #f0f3ff;
+    height: 16px !important;
+    background-color: #f0f3ff !important;
+  }
+  
+  .form__fields--row__checkbox .Mui-checked .MuiIconButton-label {
+    background-color: inherit !important;
+    border-radius: 50% !important;
+  }
+  
+  .form__fields--row__checkbox .Mui-checked.Mui-disabled .MuiIconButton-label {
+    background-color: #999 !important;
+  }
+  
+  .form__fields--row__radio {
+    width: 100%;
+    flex-direction: row !important;
+    justify-content: space-evenly;
+  }
+  
+  .form__fields--row__error-msg {
+    min-height: 20px;
+    color: inherit;
+  }
+  
+  .display-field__row {
+    display: flex;
+  }
+  
+  .display-field__row .form__fields--row__label {
+    margin: auto 0;
+  }
+  
+  .display-field__row .form__fields--row__data {
+    width: 100%;
+  }
+  
+  .disabled {
+    color: #999999;
+    cursor: not-allowed;
+  }
+  
+  .error-input input {
+    border: 1px solid red;
+  }
+  
+  .error-select .form__fields--row__select__control {
+    border: 1px solid red;
+  }
+  
+  .view {
+    min-width: 420px;
+  }
+  
+  .view > div {
+    width: 100%;
+    padding: 20px;
+    display: inline-block;
+    vertical-align: top;
+    margin-bottom: 24px;
+    background-color: #fff;
+    border-radius: 3px;
+  }
+  
+  .view__header {
+    color: inherit;
+    margin: 0 0 10px 0;
+  }
+  
+  .view__container--row {
+    margin: 10px 0;
+  }
+  
+  .view__container--row__label {
+    color: inherit;
+    display: block;
+    font-size: inherit;
+    margin-right: 12px;
+  }
+  
+  .view__container--row__data {
+    color: inherit;
+    font-size: inherit;
+    position: relative;
+  }
+  
+  .view__container--row__data > i {
+    position: absolute;
+    right: 12px;
+    top: 5px;
+  }
+  
+  .view__container--row__data .flatpickr-input {
+    background-color: inherit;
+    font-weight: inherit;
+    padding: 8px 12px;
+    border-radius: 3px;
+    font-size: inherit;
+    border: none;
+    width: 100%;
+    height: 100%;
+  }
+  
+  .flex {
+    display: flex;
+  }
+  
+  .MuiExpansionPanel-root:before {
+    position: unset;
+  }
+  
+  .MuiPaper-elevation1 {
+    box-shadow: unset;
+  }
+  
+  .MuiExpansionPanelSummary-root,
+  .MuiExpansionPanelDetails-root {
+    padding: 0;
+  }
+  
+  .MuiExpansionPanelDetails-root {
+    display: block;
+  }
+  
+  .MuiExpansionPanel-root.Mui-expanded,
+  .MuiExpansionPanelSummary-content,
+  .MuiExpansionPanelSummary-content.Mui-expanded {
+    margin: 0;
+  }
+  
+  .MuiExpansionPanelSummary-root.Mui-expanded {
+    min-height: unset;
+  }
+  

@@ -1,0 +1,1172 @@
+[
+  {
+    "images": [
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/laptop+(1).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/laptop+(2).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/laptop+(3).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/laptop+(4).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/laptop+(5).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/laptop+(6).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/laptop+(7).png"
+    ],
+    "description": "Laptop, một thiết bị di động không thể thiếu trong thế giới công nghệ hiện đại, là một chiếc máy tính nhỏ gọn và tiện ích. Được thiết kế để đáp ứng nhu cầu làm việc di động và giải trí của người dùng, laptop là một công cụ đa chức năng với nhiều ưu điểm đáng chú ý.\nVới màn hình rộng và độ phân giải cao, laptop cung cấp trải nghiệm xem phim và chơi game tuyệt vời. Khả năng hiển thị màu sắc chân thực và góc nhìn rộng giúp người dùng tận hưởng những hình ảnh sống động và sắc nét.\nBàn phím được thiết kế tinh tế và có độ nảy tốt, giúp người dùng gõ văn bản một cách dễ dàng và nhanh chóng. Touchpad nhạy cảm và chính xác, cùng với các công nghệ đa điểm chạm, tạo điều kiện thuận lợi cho việc điều khiển và thao tác trên màn hình.\nVới vi xử lý mạnh mẽ và bộ nhớ RAM lớn, laptop có thể xử lý nhanh chóng các tác vụ đa nhiệm và ứng dụng đòi hỏi tài nguyên cao. Điều này giúp người dùng làm việc mượt mà và hiệu quả mà không gặp trở ngại.\nLaptop cũng được trang bị đầy đủ các cổng kết nối, bao gồm cổng USB, cổng HDMI và cổng âm thanh, cho phép người dùng kết nối với các thiết bị ngoại vi như máy in, loa ngoài và màn hình phụ.\nMột trong những ưu điểm lớn nhất của laptop là tính di động. Nhờ kích thước nhỏ gọn và pin có thể sạc lại, người dùng có thể mang theo laptop và làm việc ở bất kỳ đâu mà không bị ràng buộc bởi vị trí cố định.\nNgoài ra, laptop cũng có các tính năng bảo mật tiên tiến như cảm biến vân tay và camera web có khả năng nhận diện khuôn mặt, giúp bảo vệ thông tin cá nhân của người dùng khỏi các nguy cơ xâm nhập và lừa đảo trực tuyến.\nTóm lại, laptop không chỉ là một công cụ làm việc hiệu quả mà còn là một người bạn đồng hành đáng tin cậy cho mọi nhu cầu di động và kỹ thuật số của người dùng hiện đại.",
+    "subTitle": "Một công cụ di động không thể thiếu, thiết kế nhỏ gọn và tiện ích.",
+    "price": 8965789,
+    "imagePrimary": "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/laptop+(1).png",
+    "name": "laptop",
+    "categoryId": "3488eb11-9cc2-441c-a13d-9385373ba2f5",
+    "customField": {
+      "size": [
+        {
+          "title": "S",
+          "stock": 54
+        },
+        {
+          "title": "M",
+          "stock": 68
+        },
+        {
+          "title": "L",
+          "stock": 90
+        },
+        {
+          "title": "XL",
+          "stock": 99
+        }
+      ]
+    },
+    "discount": 62,
+    "userId": "66247121afb19e2a1ac5e001"
+  },
+  {
+    "images": [
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/dog+(1).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/dog+(2).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/dog+(3).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/dog+(4).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/dog+(5).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/dog+(6).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/dog+(7).png"
+    ],
+    "description": "Chó, là một loài động vật có bốn chân, thường là bạn đồng hành trung thành của con người. Chúng có nhiều giống và kích thước khác nhau, từ nhỏ nhắn đến lớn mạnh, và thường được nuôi làm thú cưng hoặc làm việc. Chó là một phần không thể thiếu trong cuộc sống của nhiều gia đình, mang lại niềm vui và sự hỗ trợ cho chủ nhân. Sự trung thành, thông minh và sự đáng yêu của chúng là những đặc điểm đặc trưng, khiến cho chó trở thành một phần quan trọng của nền văn hóa và tình cảm con người.",
+    "subTitle": "Loài động vật trung thành, thông minh và đáng yêu, là bạn đồng hành của con người.",
+    "price": 2881025,
+    "imagePrimary": "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/dog+(1).png",
+    "name": "dog",
+    "categoryId": "093a6b7e-a495-4267-bfa1-e3fa19bad821",
+    "customField": {
+      "size": [
+        {
+          "title": "S",
+          "stock": 54
+        },
+        {
+          "title": "M",
+          "stock": 68
+        },
+        {
+          "title": "L",
+          "stock": 90
+        },
+        {
+          "title": "XL",
+          "stock": 99
+        }
+      ]
+    },
+    "discount": 74,
+    "userId": "6623ef6d96ca50360b1a5978"
+  },
+  {
+    "images": [
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/cat+(1).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/cat+(2).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/cat+(3).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/cat+(4).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/cat+(5).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/cat+(6).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/cat+(7).png"
+    ],
+    "description": "Mèo, là một loài động vật nhỏ có bốn chân, thường có bộ lông mềm mại và đuôi linh hoạt. Mèo thường đáng yêu và độc lập, làm thú cưng phổ biến trong các gia đình trên khắp thế giới. Với tính cách tinh nghịch và sự nhanh nhẹn, mèo làm cho cuộc sống trở nên sôi động và thú vị. Hình ảnh của mèo thường xuất hiện trong văn hóa và nghệ thuật, thể hiện sự dễ thương và quyến rũ của loài động vật này. Sự độc lập và linh hoạt của mèo làm cho chúng trở thành một phần quan trọng của cuộc sống hàng ngày, mang lại niềm vui và sự an ủi cho chủ nhân.",
+    "subTitle": "Loài mèo nhỏ có bộ lông mềm mại và đuôi linh hoạt, làm thú cưng đáng yêu.",
+    "price": 7391277,
+    "imagePrimary": "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/cat+(1).png",
+    "name": "cat",
+    "categoryId": "093a6b7e-a495-4267-bfa1-e3fa19bad821",
+    "customField": {
+      "size": [
+        {
+          "title": "S",
+          "stock": 54
+        },
+        {
+          "title": "M",
+          "stock": 68
+        },
+        {
+          "title": "L",
+          "stock": 90
+        },
+        {
+          "title": "XL",
+          "stock": 99
+        }
+      ]
+    },
+    "discount": 42,
+    "userId": "66247121afb19e2a1ac5e001"
+  },
+  {
+    "images": [
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/bread+(1).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/bread+(2).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/bread+(3).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/bread+(4).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/bread+(5).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/bread+(6).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/bread+(7).png"
+    ],
+    "description": "Bánh mì là một loại thực phẩm được làm từ bột mỳ, nước và men, sau đó nướng chín. Có nhiều loại bánh mì khác nhau trên thế giới, từ bánh mì trắng thông thường đến bánh mì lúa mạch và bánh mì ngũ cốc.",
+    "subTitle": "Thực phẩm phổ biến được làm từ bột mỳ, nước và men, thường được nướng chín.",
+    "price": 7413054,
+    "imagePrimary": "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/bread+(1).png",
+    "name": "bread",
+    "categoryId": "79087cf5-eac3-4569-877e-57238b51d2d7",
+    "customField": {
+      "size": [
+        {
+          "title": "S",
+          "stock": 54
+        },
+        {
+          "title": "M",
+          "stock": 68
+        },
+        {
+          "title": "L",
+          "stock": 90
+        },
+        {
+          "title": "XL",
+          "stock": 99
+        }
+      ]
+    },
+    "discount": 34,
+    "userId": "6624710aafb19e2a1ac5dfff"
+  },
+  {
+    "images": [
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/pen+(1).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/pen+(2).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/pen+(3).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/pen+(4).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/pen+(5).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/pen+(6).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/pen+(7).png"
+    ],
+    "description": "Bút là một công cụ viết thông thường, thường được làm từ nhựa hoặc kim loại, với một ngòi chì hoặc mực để tạo ra các dấu vết trên bề mặt giấy hoặc các vật liệu khác.",
+    "subTitle": "Công cụ viết thông thường, thường được làm từ nhựa hoặc kim loại.",
+    "price": 1533846,
+    "imagePrimary": "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/pen+(1).png",
+    "name": "pen",
+    "categoryId": "5bf1cb4f-ee60-4bb3-b730-2d6955bd9664",
+    "customField": {
+      "size": [
+        {
+          "title": "S",
+          "stock": 54
+        },
+        {
+          "title": "M",
+          "stock": 68
+        },
+        {
+          "title": "L",
+          "stock": 90
+        },
+        {
+          "title": "XL",
+          "stock": 99
+        }
+      ]
+    },
+    "discount": 50,
+    "userId": "66247114afb19e2a1ac5e000"
+  },
+  {
+    "images": [
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/shirt+(1).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/shirt+(2).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/shirt+(3).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/shirt+(4).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/shirt+(5).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/shirt+(6).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/shirt+(7).png"
+    ],
+    "description": "Áo sơ mi là một loại trang phục phổ biến cho cả nam và nữ, thường có cổ, tay dài hoặc ngắn và được mặc bên trong quần hoặc váy.",
+    "subTitle": "Loại trang phục phổ biến có cổ và tay dài hoặc ngắn, được mặc trong hoặc ngoài quần.",
+    "price": 1693385,
+    "imagePrimary": "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/shirt+(1).png",
+    "name": "shirt",
+    "categoryId": "6a7c4aa6-f040-47bb-bb47-62560de1bef1",
+    "customField": {
+      "size": [
+        {
+          "title": "S",
+          "stock": 54
+        },
+        {
+          "title": "M",
+          "stock": 68
+        },
+        {
+          "title": "L",
+          "stock": 90
+        },
+        {
+          "title": "XL",
+          "stock": 99
+        }
+      ]
+    },
+    "discount": 58,
+    "userId": "6624710aafb19e2a1ac5dfff"
+  },
+  {
+    "images": [
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/jean+(1).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/jean+(2).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/jean+(3).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/jean+(4).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/jean+(5).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/jean+(6).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/jean+(7).png"
+    ],
+    "description": "Quần jean là loại quần được làm từ vải denim, thường là màu xanh và có khả năng chịu được sự mài mòn. Chúng là một phần không thể thiếu của nhiều tủ quần áo cá nhân.",
+    "subTitle": "Quần được làm từ vải denim, thường màu xanh và chịu được sự mài mòn.",
+    "price": 6917575,
+    "imagePrimary": "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/jean+(1).png",
+    "name": "jean",
+    "categoryId": "6d6f5fa9-d32d-402e-a21c-52aef2f08edd",
+    "customField": {
+      "size": [
+        {
+          "title": "S",
+          "stock": 54
+        },
+        {
+          "title": "M",
+          "stock": 68
+        },
+        {
+          "title": "L",
+          "stock": 90
+        },
+        {
+          "title": "XL",
+          "stock": 99
+        }
+      ]
+    },
+    "discount": 69,
+    "userId": "6624712fafb19e2a1ac5e002"
+  },
+  {
+    "images": [
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/smart+(1).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/smart+(2).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/smart+(3).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/smart+(4).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/smart+(5).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/smart+(6).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/smart+(7).png"
+    ],
+    "description": "Từ 'smart' thường được sử dụng để mô tả những sản phẩm công nghệ hoặc thiết bị có khả năng kết nối internet hoặc có tính thông minh như điện thoại thông minh, đồng hồ thông minh và loa thông minh.",
+    "subTitle": "Sử dụng để mô tả các sản phẩm công nghệ hoặc thiết bị có tính thông minh.",
+    "price": 8605380,
+    "imagePrimary": "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/smart+(1).png",
+    "name": "smart",
+    "categoryId": "314e82a6-d3ad-4e34-a68b-433f166b5b13",
+    "customField": {
+      "size": [
+        {
+          "title": "S",
+          "stock": 54
+        },
+        {
+          "title": "M",
+          "stock": 68
+        },
+        {
+          "title": "L",
+          "stock": 90
+        },
+        {
+          "title": "XL",
+          "stock": 99
+        }
+      ]
+    },
+    "discount": 70,
+    "userId": "6624712fafb19e2a1ac5e002"
+  },
+  {
+    "images": [
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/clocks+(1).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/clocks+(2).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/clocks+(3).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/clocks+(4).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/clocks+(5).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/clocks+(6).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/clocks+(7).png"
+    ],
+    "description": "Đồng hồ là thiết bị đo thời gian, có thể được treo trên tường, đặt trên bàn hoặc đeo trên tay. Chúng có thể hoạt động bằng cơ khí, điện hoặc pin.",
+    "subTitle": "Thiết bị đo thời gian, có thể hoạt động bằng cơ khí, điện hoặc pin.",
+    "price": 2148624,
+    "imagePrimary": "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/clocks+(1).png",
+    "name": "clocks",
+    "categoryId": "314e82a6-d3ad-4e34-a68b-433f166b5b13",
+    "customField": {
+      "size": [
+        {
+          "title": "S",
+          "stock": 54
+        },
+        {
+          "title": "M",
+          "stock": 68
+        },
+        {
+          "title": "L",
+          "stock": 90
+        },
+        {
+          "title": "XL",
+          "stock": 99
+        }
+      ]
+    },
+    "discount": 91,
+    "userId": "6624710aafb19e2a1ac5dfff"
+  },
+  {
+    "images": [
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/door+(1).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/door+(2).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/door+(3).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/door+(4).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/door+(5).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/door+(6).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/door+(7).png"
+    ],
+    "description": "Cửa là một bề mặt chắn ngăn cách giữa hai không gian, thường được sử dụng để đi vào hoặc ra khỏi một phòng hoặc căn nhà. Có nhiều loại cửa khác nhau như cửa gỗ, cửa kính, cửa nhôm, v.v.",
+    "subTitle": "Bề mặt chắn ngăn cách giữa hai không gian, thường được sử dụng để đi vào hoặc ra khỏi một phòng hoặc căn nhà.",
+    "price": 9676940,
+    "imagePrimary": "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/door+(1).png",
+    "name": "door",
+    "categoryId": "5bf1cb4f-ee60-4bb3-b730-2d6955bd9664",
+    "customField": {
+      "size": [
+        {
+          "title": "S",
+          "stock": 54
+        },
+        {
+          "title": "M",
+          "stock": 68
+        },
+        {
+          "title": "L",
+          "stock": 90
+        },
+        {
+          "title": "XL",
+          "stock": 99
+        }
+      ]
+    },
+    "discount": 83,
+    "userId": "6624710aafb19e2a1ac5dfff"
+  },
+  {
+    "images": [
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/chiken+(1).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/chiken+(2).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/chiken+(3).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/chiken+(4).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/chiken+(5).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/chiken+(6).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/chiken+(7).png"
+    ],
+    "description": "Gà là một loài gia cầm phổ biến, được nuôi vì thịt và trứng. Có nhiều loại gà khác nhau trên thế giới, từ gà thịt đến gà trứng và gà con.",
+    "subTitle": "Loại gia cầm phổ biến, được nuôi vì thịt và trứng.",
+    "price": 814745,
+    "imagePrimary": "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/chiken+(1).png",
+    "name": "chiken",
+    "categoryId": "845d79a3-18fa-47b3-b40d-6798f6af1dae",
+    "customField": {
+      "size": [
+        {
+          "title": "S",
+          "stock": 54
+        },
+        {
+          "title": "M",
+          "stock": 68
+        },
+        {
+          "title": "L",
+          "stock": 90
+        },
+        {
+          "title": "XL",
+          "stock": 99
+        }
+      ]
+    },
+    "discount": 64,
+    "userId": "66247114afb19e2a1ac5e000"
+  },
+  {
+    "images": [
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/fish+(1).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/fish+(2).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/fish+(3).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/fish+(4).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/fish+(5).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/fish+(6).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/fish+(7).png"
+    ],
+    "description": "Cá là một loại thực phẩm giàu protein và dưỡng chất, có nhiều loại và hình dạng khác nhau. Cá thường được nấu chín, chiên, hấp hoặc nướng và được ưa chuộng trong nhiều nền văn hóa ẩm thực.",
+    "subTitle": "Thực phẩm giàu protein và dưỡng chất, có nhiều loại và hình dạng khác nhau.",
+    "price": 7438420,
+    "imagePrimary": "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/fish+(1).png",
+    "name": "fish",
+    "categoryId": "845d79a3-18fa-47b3-b40d-6798f6af1dae",
+    "customField": {
+      "size": [
+        {
+          "title": "S",
+          "stock": 54
+        },
+        {
+          "title": "M",
+          "stock": 68
+        },
+        {
+          "title": "L",
+          "stock": 90
+        },
+        {
+          "title": "XL",
+          "stock": 99
+        }
+      ]
+    },
+    "discount": 79,
+    "userId": "6623ef6396ca50360b1a5977"
+  },
+  {
+    "images": [
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/shoes+(1).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/shoes+(2).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/shoes+(3).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/shoes+(4).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/shoes+(5).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/shoes+(6).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/shoes+(7).png"
+    ],
+    "description": "Giày dép là một loại đồ trang phục dùng để bảo vệ và giữ chân, có nhiều kiểu dáng và chức năng khác nhau như giày thể thao, giày cao gót, giày dép điều hòa, v.v.",
+    "subTitle": "Loại đồ trang phục dùng để bảo vệ và giữ chân, có nhiều kiểu dáng và chức năng.",
+    "price": 4698075,
+    "imagePrimary": "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/shoes+(1).png",
+    "name": "shoes",
+    "categoryId": "1e9fc003-660d-40ce-a7a8-628b22713005",
+    "customField": {
+      "size": [
+        {
+          "title": "S",
+          "stock": 54
+        },
+        {
+          "title": "M",
+          "stock": 68
+        },
+        {
+          "title": "L",
+          "stock": 90
+        },
+        {
+          "title": "XL",
+          "stock": 99
+        }
+      ]
+    },
+    "discount": 75,
+    "userId": "6624710aafb19e2a1ac5dfff"
+  },
+  {
+    "images": [
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/hand-bag+(1).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/hand-bag+(2).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/hand-bag+(3).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/hand-bag+(4).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/hand-bag+(5).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/hand-bag+(6).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/hand-bag+(7).png"
+    ],
+    "description": "Túi xách là một loại phụ kiện thời trang dùng để đựng và mang theo đồ cá nhân như ví tiền, điện thoại di động, chìa khóa và mỹ phẩm.",
+    "subTitle": "Phụ kiện thời trang dùng để đựng và mang theo đồ cá nhân như ví tiền, điện thoại di động, chìa khóa.",
+    "price": 1376463,
+    "imagePrimary": "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/hand-bag+(1).png",
+    "name": "hand-bag",
+    "categoryId": "5f88ebd7-6bfe-44a1-9cbf-057d1e59dcb7",
+    "customField": {
+      "size": [
+        {
+          "title": "S",
+          "stock": 54
+        },
+        {
+          "title": "M",
+          "stock": 68
+        },
+        {
+          "title": "L",
+          "stock": 90
+        },
+        {
+          "title": "XL",
+          "stock": 99
+        }
+      ]
+    },
+    "discount": 68,
+    "userId": "6624712fafb19e2a1ac5e002"
+  },
+  {
+    "images": [
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/backpack+(1).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/backpack+(2).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/backpack+(3).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/backpack+(4).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/backpack+(5).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/backpack+(6).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/backpack+(7).png"
+    ],
+    "description": "Ba lô là một loại túi lớn có dây đeo hai vai, thường được sử dụng để mang đồ đi học, đi làm hoặc đi du lịch. Chúng có nhiều ngăn và túi nhỏ để tiện lợi cho việc sắp xếp đồ đạc.",
+    "subTitle": "Túi lớn có dây đeo hai vai, thường được sử dụng để mang đồ đi học, đi làm hoặc đi du lịch.",
+    "price": 1608093,
+    "imagePrimary": "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/backpack+(1).png",
+    "name": "backpack",
+    "categoryId": "39371be5-8221-438a-9881-3842e8b68c02",
+    "customField": {
+      "size": [
+        {
+          "title": "S",
+          "stock": 54
+        },
+        {
+          "title": "M",
+          "stock": 68
+        },
+        {
+          "title": "L",
+          "stock": 90
+        },
+        {
+          "title": "XL",
+          "stock": 99
+        }
+      ]
+    },
+    "discount": 73,
+    "userId": "66247121afb19e2a1ac5e001"
+  },
+  {
+    "images": [
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/table+(1).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/table+(2).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/table+(3).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/table+(4).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/table+(5).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/table+(6).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/table+(7).png"
+    ],
+    "description": "Bàn là một mặt phẳng được nâng cao bằng chân hoặc chân đế, thường được sử dụng để đặt đồ đạc hoặc làm nơi làm việc.",
+    "subTitle": "Một mặt phẳng được nâng cao bằng chân hoặc chân đế, thường được sử dụng để đặt đồ đạc hoặc làm nơi làm việc.",
+    "price": 5999065,
+    "imagePrimary": "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/table+(1).png",
+    "name": "table",
+    "categoryId": "3488eb11-9cc2-441c-a13d-9385373ba2f5",
+    "customField": {
+      "size": [
+        {
+          "title": "S",
+          "stock": 54
+        },
+        {
+          "title": "M",
+          "stock": 68
+        },
+        {
+          "title": "L",
+          "stock": 90
+        },
+        {
+          "title": "XL",
+          "stock": 99
+        }
+      ]
+    },
+    "discount": 69,
+    "userId": "6623ef6396ca50360b1a5977"
+  },
+  {
+    "images": [
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/dish+(1).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/dish+(2).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/dish+(3).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/dish+(4).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/dish+(5).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/dish+(6).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/dish+(7).png"
+    ],
+    "description": "Dĩa là một loại đồ dùng trong việc chứa và phục vụ thức ăn. Có nhiều loại dĩa khác nhau như dĩa ăn cơm, dĩa salad, dĩa dessert, v.v.",
+    "subTitle": "Đồ dùng trong việc chứa và phục vụ thức ăn, có nhiều loại dĩa khác nhau.",
+    "price": 4574502,
+    "imagePrimary": "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/dish+(1).png",
+    "name": "dish",
+    "categoryId": "3488eb11-9cc2-441c-a13d-9385373ba2f5",
+    "customField": {
+      "size": [
+        {
+          "title": "S",
+          "stock": 54
+        },
+        {
+          "title": "M",
+          "stock": 68
+        },
+        {
+          "title": "L",
+          "stock": 90
+        },
+        {
+          "title": "XL",
+          "stock": 99
+        }
+      ]
+    },
+    "discount": 26,
+    "userId": "6624712fafb19e2a1ac5e002"
+  },
+  {
+    "images": [
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/dress+(1).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/dress+(2).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/dress+(3).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/dress+(4).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/dress+(5).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/dress+(6).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/dress+(7).png"
+    ],
+    "description": "Váy là một loại trang phục dành cho phụ nữ, có nhiều kiểu dáng và chiều dài khác nhau như váy dài, váy ngắn, váy maxi, v.v.",
+    "subTitle": "Loại trang phục dành cho phụ nữ, có nhiều kiểu dáng và chiều dài khác nhau.",
+    "price": 8171304,
+    "imagePrimary": "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/dress+(1).png",
+    "name": "dress",
+    "categoryId": "f817008e-210a-4315-a146-a63763e67fe5",
+    "customField": {
+      "size": [
+        {
+          "title": "S",
+          "stock": 54
+        },
+        {
+          "title": "M",
+          "stock": 68
+        },
+        {
+          "title": "L",
+          "stock": 90
+        },
+        {
+          "title": "XL",
+          "stock": 99
+        }
+      ]
+    },
+    "discount": 40,
+    "userId": "66247121afb19e2a1ac5e001"
+  },
+  {
+    "images": [
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/coffee+(1).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/coffee+(2).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/coffee+(3).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/coffee+(4).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/coffee+(5).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/coffee+(6).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/coffee+(7).png"
+    ],
+    "description": "Cà phê là một loại đồ uống được làm từ hạt cà phê rang xay, thường có hương vị đắng và mạnh mẽ. Cà phê được uống phổ biến trên toàn thế giới và có nhiều loại pha chế khác nhau như cà phê đen, cà phê sữa, espresso, v.v.",
+    "subTitle": "Đồ uống được làm từ hạt cà phê rang xay, thường có hương vị đắng và mạnh mẽ.",
+    "price": 1504611,
+    "imagePrimary": "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/coffee+(1).png",
+    "name": "coffee",
+    "categoryId": "99df4887-9164-4e61-8815-e39242817556",
+    "customField": {
+      "size": [
+        {
+          "title": "S",
+          "stock": 54
+        },
+        {
+          "title": "M",
+          "stock": 68
+        },
+        {
+          "title": "L",
+          "stock": 90
+        },
+        {
+          "title": "XL",
+          "stock": 99
+        }
+      ]
+    },
+    "discount": 16,
+    "userId": "66247114afb19e2a1ac5e000"
+  },
+  {
+    "images": [
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/stuffed+(1).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/stuffed+(2).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/stuffed+(3).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/stuffed+(4).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/stuffed+(5).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/stuffed+(6).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/stuffed+(7).png"
+    ],
+    "description": "Thú nhồi bông là những con thú nhỏ được làm từ vải và nhồi bông, thường làm quà tặng cho trẻ em hoặc trang trí trong nhà.",
+    "subTitle": "Những con thú nhỏ được làm từ vải và nhồi bông, thường làm quà tặng cho trẻ em hoặc trang trí trong nhà.",
+    "price": 5744564,
+    "imagePrimary": "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/stuffed+(1).png",
+    "name": "stuffed",
+    "categoryId": "99df4887-9164-4e61-8815-e39242817556",
+    "customField": {
+      "size": [
+        {
+          "title": "S",
+          "stock": 54
+        },
+        {
+          "title": "M",
+          "stock": 68
+        },
+        {
+          "title": "L",
+          "stock": 90
+        },
+        {
+          "title": "XL",
+          "stock": 99
+        }
+      ]
+    },
+    "discount": 15,
+    "userId": "6623ef6d96ca50360b1a5978"
+  },
+  {
+    "images": [
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/keyboard+(1).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/keyboard+(2).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/keyboard+(3).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/keyboard+(4).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/keyboard+(5).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/keyboard+(6).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/keyboard+(7).png"
+    ],
+    "description": "Bàn phím là một thiết bị nhập liệu cho máy tính, thường được làm từ nhựa hoặc kim loại, có các phím bấm để gõ chữ, số và các phím chức năng.",
+    "subTitle": "Thiết bị nhập liệu cho máy tính, thường được làm từ nhựa hoặc kim loại, có các phím bấm để gõ chữ, số và các phím chức năng.",
+    "price": 6376859,
+    "imagePrimary": "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/keyboard+(1).png",
+    "name": "keyboard",
+    "categoryId": "3488eb11-9cc2-441c-a13d-9385373ba2f5",
+    "customField": {
+      "size": [
+        {
+          "title": "S",
+          "stock": 54
+        },
+        {
+          "title": "M",
+          "stock": 68
+        },
+        {
+          "title": "L",
+          "stock": 90
+        },
+        {
+          "title": "XL",
+          "stock": 99
+        }
+      ]
+    },
+    "discount": 85,
+    "userId": "6623ef6396ca50360b1a5977"
+  },
+  {
+    "images": [
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/dumbbell+(1).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/dumbbell+(2).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/dumbbell+(3).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/dumbbell+(4).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/dumbbell+(5).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/dumbbell+(6).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/dumbbell+(7).png"
+    ],
+    "description": "Tạ tay là một dụng cụ tập luyện được sử dụng để tăng cường sức mạnh và sức khoẻ. Tạ tay có thể được làm từ thép, nhựa hoặc gốm và có khối lượng khác nhau tùy thuộc vào mục đích sử dụng.",
+    "subTitle": "Dụng cụ tập luyện được sử dụng để tăng cường sức mạnh và sức khỏe.",
+    "price": 5670795,
+    "imagePrimary": "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/dumbbell+(1).png",
+    "name": "dumbbell",
+    "categoryId": "935ee397-525f-4423-a8ae-0c52ac110fe9",
+    "customField": {
+      "size": [
+        {
+          "title": "S",
+          "stock": 54
+        },
+        {
+          "title": "M",
+          "stock": 68
+        },
+        {
+          "title": "L",
+          "stock": 90
+        },
+        {
+          "title": "XL",
+          "stock": 99
+        }
+      ]
+    },
+    "discount": 89,
+    "userId": "6624710aafb19e2a1ac5dfff"
+  },
+  {
+    "images": [
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/kettlebell+(1).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/kettlebell+(2).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/kettlebell+(3).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/kettlebell+(4).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/kettlebell+(5).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/kettlebell+(6).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/kettlebell+(7).png"
+    ],
+    "description": "Tạ kettlebell là một loại tạ đặc biệt có hình dáng giống như quả chuông, thường được sử dụng trong các bài tập tăng cường sức mạnh và cardio.",
+    "subTitle": "Loại tạ đặc biệt có hình dáng giống như quả chuông, thường được sử dụng trong các bài tập tăng cường sức mạnh và cardio.",
+    "price": 6874957,
+    "imagePrimary": "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/kettlebell+(1).png",
+    "name": "kettlebell",
+    "categoryId": "935ee397-525f-4423-a8ae-0c52ac110fe9",
+    "customField": {
+      "size": [
+        {
+          "title": "S",
+          "stock": 54
+        },
+        {
+          "title": "M",
+          "stock": 68
+        },
+        {
+          "title": "L",
+          "stock": 90
+        },
+        {
+          "title": "XL",
+          "stock": 99
+        }
+      ]
+    },
+    "discount": 41,
+    "userId": "66247114afb19e2a1ac5e000"
+  },
+  {
+    "images": [
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/flower-pot+(1).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/flower-pot+(2).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/flower-pot+(3).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/flower-pot+(4).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/flower-pot+(5).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/flower-pot+(6).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/flower-pot+(7).png"
+    ],
+    "description": "Chậu hoa là một loại đồ dùng dùng để trồng cây hoa hoặc cây cỏ, thường được làm từ gốm, nhựa hoặc kim loại và có nhiều kiểu dáng và kích thước khác nhau.",
+    "subTitle": "Loại đồ dùng dùng để trồng cây hoa hoặc cây cỏ, thường được làm từ gốm, nhựa hoặc kim loại.",
+    "price": 6874011,
+    "imagePrimary": "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/flower-pot+(1).png",
+    "name": "flower-pot",
+    "categoryId": "bcf24f50-883d-4129-8eb6-20e61faa8e45",
+    "customField": {
+      "size": [
+        {
+          "title": "S",
+          "stock": 54
+        },
+        {
+          "title": "M",
+          "stock": 68
+        },
+        {
+          "title": "L",
+          "stock": 90
+        },
+        {
+          "title": "XL",
+          "stock": 99
+        }
+      ]
+    },
+    "discount": 72,
+    "userId": "6623ef6396ca50360b1a5977"
+  },
+  {
+    "images": [
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/computer-mouse+(1).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/computer-mouse+(2).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/computer-mouse+(3).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/computer-mouse+(4).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/computer-mouse+(5).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/computer-mouse+(6).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/computer-mouse+(7).png"
+    ],
+    "description": "Chuột máy tính là một thiết bị nhập liệu cho máy tính, thường được sử dụng để di chuyển con trỏ trên màn hình và thực hiện các thao tác nhấn. Chuột có thể có dây hoặc không dây.",
+    "subTitle": "Thiết bị nhập liệu cho máy tính, thường được sử dụng để di chuyển con trỏ trên màn hình và thực hiện các thao tác nhấn.",
+    "price": 8317927,
+    "imagePrimary": "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/computer-mouse+(1).png",
+    "name": "computer-mouse",
+    "categoryId": "3488eb11-9cc2-441c-a13d-9385373ba2f5",
+    "customField": {
+      "size": [
+        {
+          "title": "S",
+          "stock": 54
+        },
+        {
+          "title": "M",
+          "stock": 68
+        },
+        {
+          "title": "L",
+          "stock": 90
+        },
+        {
+          "title": "XL",
+          "stock": 99
+        }
+      ]
+    },
+    "discount": 82,
+    "userId": "6624710aafb19e2a1ac5dfff"
+  },
+  {
+    "images": [
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/bike+(1).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/bike+(2).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/bike+(3).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/bike+(4).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/bike+(5).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/bike+(6).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/bike+(7).png"
+    ],
+    "description": "Xe đạp là một phương tiện giao thông cá nhân được sử dụng để di chuyển, tập thể dục hoặc vui chơi. Có nhiều loại xe đạp khác nhau như xe đạp đường phố, xe đạp leo núi, xe đạp đua, v.v.",
+    "subTitle": "Phương tiện giao thông cá nhân được sử dụng để di chuyển, tập thể dục hoặc vui chơi.",
+    "price": 3370869,
+    "imagePrimary": "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/bike+(1).png",
+    "name": "bike",
+    "categoryId": "f817008e-210a-4315-a146-a63763e67fe5",
+    "customField": {
+      "size": [
+        {
+          "title": "S",
+          "stock": 54
+        },
+        {
+          "title": "M",
+          "stock": 68
+        },
+        {
+          "title": "L",
+          "stock": 90
+        },
+        {
+          "title": "XL",
+          "stock": 99
+        }
+      ]
+    },
+    "discount": 94,
+    "userId": "6624710aafb19e2a1ac5dfff"
+  },
+  {
+    "images": [
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/skincare+(1).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/skincare+(2).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/skincare+(3).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/skincare+(4).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/skincare+(5).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/skincare+(6).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/skincare+(7).png"
+    ],
+    "description": "Chăm sóc da là quy trình và sản phẩm được sử dụng để bảo vệ và cải thiện sức khỏe của làn da. Có nhiều loại sản phẩm chăm sóc da như kem dưỡng da, sữa rửa mặt, nước hoa hồng, v.v.",
+    "subTitle": "Quy trình và sản phẩm được sử dụng để bảo vệ và cải thiện sức khỏe của làn da.",
+    "price": 4582205,
+    "imagePrimary": "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/skincare+(1).png",
+    "name": "skincare",
+    "categoryId": "f817008e-210a-4315-a146-a63763e67fe5",
+    "customField": {
+      "size": [
+        {
+          "title": "S",
+          "stock": 54
+        },
+        {
+          "title": "M",
+          "stock": 68
+        },
+        {
+          "title": "L",
+          "stock": 90
+        },
+        {
+          "title": "XL",
+          "stock": 99
+        }
+      ]
+    },
+    "discount": 89,
+    "userId": "6624712fafb19e2a1ac5e002"
+  },
+  {
+    "images": [
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/jacket+(1).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/jacket+(2).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/jacket+(3).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/jacket+(4).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/jacket+(5).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/jacket+(6).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/jacket+(7).png"
+    ],
+    "description": "Áo khoác là một loại trang phục dùng để giữ ấm và bảo vệ cơ thể khỏi thời tiết lạnh. Có nhiều loại áo khoác khác nhau như áo khoác len, áo khoác da, áo khoác gió, v.v.",
+    "subTitle": "Loại trang phục dùng để giữ ấm và bảo vệ cơ thể khỏi thời tiết lạnh.",
+    "price": 2322246,
+    "imagePrimary": "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/jacket+(1).png",
+    "name": "jacket",
+    "categoryId": "f817008e-210a-4315-a146-a63763e67fe5",
+    "customField": {
+      "size": [
+        {
+          "title": "S",
+          "stock": 54
+        },
+        {
+          "title": "M",
+          "stock": 68
+        },
+        {
+          "title": "L",
+          "stock": 90
+        },
+        {
+          "title": "XL",
+          "stock": 99
+        }
+      ]
+    },
+    "discount": 81,
+    "userId": "66247121afb19e2a1ac5e001"
+  },
+  {
+    "images": [
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/red-hat+(1).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/red-hat+(2).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/red-hat+(3).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/red-hat+(4).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/red-hat+(5).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/red-hat+(6).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/red-hat+(7).png"
+    ],
+    "description": "Mũ đỏ là một loại phụ kiện thời trang dùng để đội trên đầu, có nhiều kiểu dáng và chất liệu khác nhau. Mũ đỏ có thể được sử dụng để bảo vệ đầu khỏi ánh nắng mặt trời hoặc để tạo phong cách riêng.",
+    "subTitle": "Loại phụ kiện thời trang dùng để đội trên đầu, có nhiều kiểu dáng và chất liệu khác nhau.",
+    "price": 1063649,
+    "imagePrimary": "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/red-hat+(1).png",
+    "name": "red-hat",
+    "categoryId": "f817008e-210a-4315-a146-a63763e67fe5",
+    "customField": {
+      "size": [
+        {
+          "title": "S",
+          "stock": 54
+        },
+        {
+          "title": "M",
+          "stock": 68
+        },
+        {
+          "title": "L",
+          "stock": 90
+        },
+        {
+          "title": "XL",
+          "stock": 99
+        }
+      ]
+    },
+    "discount": 28,
+    "userId": "6624710aafb19e2a1ac5dfff"
+  },
+  {
+    "images": [
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/cookies+(1).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/cookies+(2).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/cookies+(3).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/cookies+(4).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/cookies+(5).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/cookies+(6).png",
+      "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/cookies+(7).png"
+    ],
+    "description": "Bánh quy là loại bánh ngọt có hình dạng phẳng và thường được làm từ bột mỳ, đường, bơ và các nguyên liệu khác. Bánh quy có nhiều hương vị và hình dáng khác nhau và thường được ăn kèm với nước ngọt hoặc cà phê.",
+    "subTitle": "Loại bánh ngọt có hình dạng phẳng và thường được làm từ bột mỳ, đường, bơ và các nguyên liệu khác.",
+    "price": 5042107,
+    "imagePrimary": "https://sshop-product-image2.s3.ap-southeast-1.amazonaws.com/cookies+(1).png",
+    "name": "cookies",
+    "categoryId": "99df4887-9164-4e61-8815-e39242817556",
+    "customField": {
+      "size": [
+        {
+          "title": "S",
+          "stock": 54
+        },
+        {
+          "title": "M",
+          "stock": 68
+        },
+        {
+          "title": "L",
+          "stock": 90
+        },
+        {
+          "title": "XL",
+          "stock": 99
+        }
+      ]
+    },
+    "discount": 51,
+    "userId": "6623ef6396ca50360b1a5977"
+  }
+]

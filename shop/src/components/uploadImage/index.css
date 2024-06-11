@@ -1,0 +1,29 @@
+@import url('../../assets/css/base.css');
+.image_wrapper{
+    column-gap: 24px;
+    row-gap: 24px;
+}
+
+.close_image{
+    cursor: pointer;
+    top:-8px;
+    right: -8px;
+    background-color: #ccc;
+    border-radius: 50%;
+    border: 1px solid #ccc;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn-upload-image{
+    height: 100px;
+    width: 100px;
+    border: 2px dashed #ccc;
+    border-radius: 4px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+

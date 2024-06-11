@@ -1,0 +1,1302 @@
+[
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "John",
+      "email": "john@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Mary",
+      "email": "mary@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Michael",
+      "email": "michael@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Jennifer",
+      "email": "jennifer@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "James",
+      "email": "james@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Lisa",
+      "email": "lisa@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "David",
+      "email": "david@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Sarah",
+      "email": "sarah@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Robert",
+      "email": "robert@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Kimberly",
+      "email": "kimberly@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "William",
+      "email": "william@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Michelle",
+      "email": "michelle@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Joseph",
+      "email": "joseph@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Amanda",
+      "email": "amanda@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Charles",
+      "email": "charles@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Melissa",
+      "email": "melissa@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Thomas",
+      "email": "thomas@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Jessica",
+      "email": "jessica@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Daniel",
+      "email": "daniel@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Nicole",
+      "email": "nicole@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Matthew",
+      "email": "matthew@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Elizabeth",
+      "email": "elizabeth@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Christopher",
+      "email": "christopher@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Ashley",
+      "email": "ashley@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Andrew",
+      "email": "andrew@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Stephanie",
+      "email": "stephanie@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Joshua",
+      "email": "joshua@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Heather",
+      "email": "heather@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Kevin",
+      "email": "kevin@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Megan",
+      "email": "megan@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Brian",
+      "email": "brian@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Tiffany",
+      "email": "tiffany@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Ryan",
+      "email": "ryan@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Brittany",
+      "email": "brittany@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Eric",
+      "email": "eric@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Christina",
+      "email": "christina@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Steven",
+      "email": "steven@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Amber",
+      "email": "amber@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Timothy",
+      "email": "timothy@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Emily",
+      "email": "emily@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Jason",
+      "email": "jason@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Samantha",
+      "email": "samantha@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Jeffrey",
+      "email": "jeffrey@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Rachel",
+      "email": "rachel@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Scott",
+      "email": "scott@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Laura",
+      "email": "laura@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Justin",
+      "email": "justin@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Rebecca",
+      "email": "rebecca@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Brandon",
+      "email": "brandon@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Kelly",
+      "email": "kelly@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Gregory",
+      "email": "gregory@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Mary",
+      "email": "mary@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Travis",
+      "email": "travis@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Andrea",
+      "email": "andrea@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Peter",
+      "email": "peter@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Amy",
+      "email": "amy@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Kenneth",
+      "email": "kenneth@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Crystal",
+      "email": "crystal@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Jonathan",
+      "email": "jonathan@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Erin",
+      "email": "erin@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Benjamin",
+      "email": "benjamin@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Angela",
+      "email": "angela@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Adam",
+      "email": "adam@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Patricia",
+      "email": "patricia@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Patrick",
+      "email": "patrick@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Kimberly",
+      "email": "kimberly@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Nathan",
+      "email": "nathan@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Christina",
+      "email": "christina@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Jeremy",
+      "email": "jeremy@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Shannon",
+      "email": "shannon@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Alexander",
+      "email": "alexander@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Michelle",
+      "email": "michelle@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Dennis",
+      "email": "dennis@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Candace",
+      "email": "candace@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Sean",
+      "email": "sean@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Brittany",
+      "email": "brittany@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Bryan",
+      "email": "bryan@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Shannon",
+      "email": "shannon@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Zachary",
+      "email": "zachary@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Kristin",
+      "email": "kristin@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Jesse",
+      "email": "jesse@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Dawn",
+      "email": "dawn@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Bradley",
+      "email": "bradley@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Christina",
+      "email": "christina@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Phillip",
+      "email": "phillip@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Natalie",
+      "email": "natalie@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Stephen",
+      "email": "stephen@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Monica",
+      "email": "monica@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Adam",
+      "email": "adam@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Jacqueline",
+      "email": "jacqueline@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Alan",
+      "email": "alan@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Jenna",
+      "email": "jenna@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Larry",
+      "email": "larry@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Carrie",
+      "email": "carrie@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Gary",
+      "email": "gary@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Julie",
+      "email": "julie@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Eugene",
+      "email": "eugene@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Alexandra",
+      "email": "alexandra@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Carlos",
+      "email": "carlos@gmail.com"
+    },
+    {
+      "user_password": "$2a$10$lycI1SQwt88eqAnrnvflGeOZTmSu5GFQ7AYVvH3hk4obJm1RADY1i",
+      "role": "USER",
+      "createdDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "modifiedDate": {
+        "$date": "2024-05-07T03:09:35.144Z"
+      },
+      "_class": "SShop.mono.domain.entity.mongodb.UserEntity",
+      "user_name": "Courtney",
+      "email": "courtney@gmail.com"
+    }
+  ]

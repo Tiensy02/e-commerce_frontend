@@ -1,0 +1,31 @@
+@import url("../../assets/css/base.css");
+.form_basic_wrapper{
+    display: flex;
+    flex-direction: column;
+    row-gap: 32px;
+    padding: 24px;
+    margin-bottom: 24px;
+    border-radius: 4px;
+    box-shadow: 0 0 10px 0 rgba(0,0,0,0.2);
+    background-color: white;
+}
+
+.label_form{
+    font-size: 18px;
+    text-align: start;
+}
+.myDialogPaper{
+    overflow: hidden !important;   
+}
+.header_form{
+    text-align: start;
+    font-size: 24px;
+    margin-left: -12px;
+    font-weight: 500;
+}
+
+.create_product-submit{
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: row;
+}
